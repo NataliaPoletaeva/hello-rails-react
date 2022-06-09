@@ -228,6 +228,8 @@ GEM
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
+    uglifier (3.0.4)
+      execjs (>= 0.3.0, < 3)
     unicode-display_width (2.1.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
@@ -270,6 +272,7 @@ DEPENDENCIES
   stimulus-rails
   turbo-rails
   tzinfo-data
+  uglifier (~> 3.0.0)
   web-console
   webdrivers
   webpacker

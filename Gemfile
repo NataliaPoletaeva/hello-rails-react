@@ -48,6 +48,8 @@ gem 'react-rails'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+gem "uglifier", "~> 3.0.0"
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
